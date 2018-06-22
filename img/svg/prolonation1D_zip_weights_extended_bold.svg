@@ -24,20 +24,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33821858"
-     inkscape:cx="130.73988"
-     inkscape:cy="203.93799"
+     inkscape:zoom="2.4494424"
+     inkscape:cx="288.48141"
+     inkscape:cy="87.285852"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:snap-grids="false"
      inkscape:snap-page="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:window-width="694"
-     inkscape:window-height="385"
-     inkscape:window-x="538"
-     inkscape:window-y="90"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -484,7 +484,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1652,12 +1652,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text6169-61-9-7-5-8-6"
-       y="540.87207"
-       x="408.99045"
+       y="541.16077"
+       x="492.13049"
        style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="540.87207"
-         x="408.99045"
+         y="541.16077"
+         x="492.13049"
          id="tspan6171-5-3-4-9-7-8"
          sodipodi:role="line">y</tspan></text>
     <g
@@ -1749,12 +1749,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text6169-61-9-7-5-8-0-7"
-       y="540.63727"
-       x="493.36282"
+       y="541.79199"
+       x="407.91333"
        style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="540.63727"
-         x="493.36282"
+         y="541.79199"
+         x="407.91333"
          id="tspan6171-5-3-4-9-7-6-2"
          sodipodi:role="line">x</tspan></text>
     <g

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  22 JUN 2018 09:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.4.17)  22 JUN 2018 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1473,27 +1473,27 @@ TextBlockOrigin set to 0pt x 0pt
 ) (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 46.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+fMt on input line 47.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Try loading font information for T1+fMt on input line 46.
 (/usr/share/texmf/tex/latex/meta/t1fmt.fd
 File: t1fmt.fd 2008/02/14 Fontinst v1.801 font definitions for T1/fMt.
 )
@@ -1561,7 +1561,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box92
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1571,56 +1571,56 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count194
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 47.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 47.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 46.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/fMt/m/n on input line 47.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 47.
+(Font)                  OT1/cmss/m/n --> T1/fMt/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/fMt/bx/n on input line 47.
+(Font)                  OT1/cmr/bx/n --> T1/fMt/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/fMt/bx/n on input line 47.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 47.
+(Font)                  OT1/cmr/bx/n --> T1/fMt/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/fMt/m/n on input line 47.
+(Font)                  OT1/cmss/m/n --> T1/fMt/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/fMt/m/n on input line 47.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 47.
+(Font)                  OT1/cmss/bx/n --> T1/fMt/m/n on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/fMt/m/it on input line 47.
+(Font)                  OT1/cmr/m/it --> T1/fMt/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/fMt/m/it on input line 47.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 47.
+(Font)                  OT1/cmr/bx/it --> T1/fMt/m/it on input line 46.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 47.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 47.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/fMt/m/n --> T1/fMt/bx/n on input line 47.
+(Font)                  T1/fMt/m/n --> T1/fMt/bx/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/fMt/m/it --> T1/fMt/bx/it on input line 47.
+(Font)                  T1/fMt/m/it --> T1/fMt/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/fMt/bx/n on input line 47.
+(Font)                  OT1/cmss/bx/n --> T1/fMt/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/fMt/bx/n --> T1/fMt/bx/n on input line 47.
+(Font)                  T1/fMt/bx/n --> T1/fMt/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/fMt/m/n --> T1/fMt/bx/n on input line 47.
+(Font)                  T1/fMt/m/n --> T1/fMt/bx/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/fMt/m/it --> T1/fMt/bx/it on input line 47.
+(Font)                  T1/fMt/m/it --> T1/fMt/bx/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 47.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/dicts/translator-bas
 ic-dictionary/translator-basic-dictionary-English.dict
@@ -1646,8 +1646,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 orem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 47.
-LaTeX Info: Redefining \microtypecontext on input line 47.
+LaTeX Info: Redefining \includegraphics on input line 46.
+LaTeX Info: Redefining \microtypecontext on input line 46.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1663,40 +1663,40 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 \c@lstlisting=\count195
  (./presentation.nav)
-Overfull \hbox (0.83995pt too wide) in paragraph at lines 47--47
+Overfull \hbox (0.83995pt too wide) in paragraph at lines 46--46
 [][]\T1/fMt/m/n/6 ,  
  []
 
 
-Overfull \hbox (0.83995pt too wide) in paragraph at lines 47--47
+Overfull \hbox (0.83995pt too wide) in paragraph at lines 46--46
 [][]\T1/fMt/m/n/6 ,  
  []
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 51.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 50.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 51.
+(Font)              size <5> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 51.
+(Font)              size <5> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 51.
+(Font)              size <5> substituted on input line 50.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1706,7 +1706,7 @@ File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 
 LaTeX Font Warning: Font shape `T1/fMt//' undefined
-(Font)              using `T1/fMt/m/n' instead on input line 51.
+(Font)              using `T1/fMt/m/n' instead on input line 50.
 
 [1
 
@@ -1732,7 +1732,7 @@ verted-to.pdf>
 (epstopdf)                    size: 19585 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_0-eps-converted-to.pdf img/classic_solver_option_2_text_0.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/classic_solver_option_2_text_0-eps-converted-to.pdf, id=29, 426.59375pt x 
@@ -1741,7 +1741,7 @@ File: img/classic_solver_option_2_text_0-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use img/classic_solver_option_2_text_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_0-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 63.9863pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1765,7 +1765,7 @@ verted-to.pdf>
 (epstopdf)                    size: 20542 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_1-eps-converted-to.pdf img/classic_solver_option_2_text_1.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/classic_solver_option_2_text_1-eps-converted-to.pdf, id=43, 426.59375pt x 
@@ -1774,7 +1774,7 @@ File: img/classic_solver_option_2_text_1-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use img/classic_solver_option_2_text_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_1-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 63.9863pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1798,7 +1798,7 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/classic_solver_option_2_text_2-eps-converted-to.pdf, id=57, 617.30624pt x 
@@ -1807,7 +1807,7 @@ File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1831,14 +1831,14 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1861,17 +1861,17 @@ Package epstopdf Info: Source file: <img/multigrid_-2.eps>
 (epstopdf)                    size: 26996 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_-2-eps-conve
 rted-to.pdf img/multigrid_-2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
  <img/multigrid_-2-eps-converted-to.pdf, id=78, 1158.3275pt x 936.49875pt>
 File: img/multigrid_-2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_-2-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_-2-eps-converted-to.pdf used on input li
-ne 123.
+ne 122.
 (pdftex.def)             Requested size: 173.74162pt x 140.46875pt.
 
-Overfull \hbox (31.47784pt too wide) in paragraph at lines 123--123
+Overfull \hbox (31.47784pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -1884,13 +1884,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1913,7 +1913,7 @@ Package epstopdf Info: Source file: <img/multigrid_-1.eps>
 (epstopdf)                    size: 26999 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_-1-eps-conve
 rted-to.pdf img/multigrid_-1.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_-1-eps-converted-to.pdf, id=98, 1158.3275pt x 936.49875pt>
@@ -1921,10 +1921,10 @@ File: img/multigrid_-1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_-1-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_-1-eps-converted-to.pdf used on input li
-ne 123.
+ne 122.
 (pdftex.def)             Requested size: 173.74162pt x 140.46875pt.
 
-Overfull \hbox (31.47784pt too wide) in paragraph at lines 123--123
+Overfull \hbox (31.47784pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -1937,13 +1937,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -1966,7 +1966,7 @@ Package epstopdf Info: Source file: <img/multigrid_0.eps>
 (epstopdf)                    size: 63029 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_0-eps-conver
 ted-to.pdf img/multigrid_0.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_0-eps-converted-to.pdf, id=117, 1154.3125pt x 925.4575pt>
@@ -1974,10 +1974,10 @@ File: img/multigrid_0-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_0-eps-converted-to.pdf used on input lin
-e 123.
+e 122.
 (pdftex.def)             Requested size: 173.1394pt x 138.81264pt.
 
-Overfull \hbox (30.87563pt too wide) in paragraph at lines 123--123
+Overfull \hbox (30.87563pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -1990,13 +1990,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2019,7 +2019,7 @@ Package epstopdf Info: Source file: <img/multigrid_1.eps>
 (epstopdf)                    size: 63033 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_1-eps-conver
 ted-to.pdf img/multigrid_1.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_1-eps-converted-to.pdf, id=141, 1154.3125pt x 925.4575pt>
@@ -2027,10 +2027,10 @@ File: img/multigrid_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_1-eps-converted-to.pdf used on input lin
-e 123.
+e 122.
 (pdftex.def)             Requested size: 173.1394pt x 138.81264pt.
 
-Overfull \hbox (30.87563pt too wide) in paragraph at lines 123--123
+Overfull \hbox (30.87563pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -2043,13 +2043,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2072,7 +2072,7 @@ Package epstopdf Info: Source file: <img/multigrid_2.eps>
 (epstopdf)                    size: 63004 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_2-eps-conver
 ted-to.pdf img/multigrid_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_2-eps-converted-to.pdf, id=165, 1154.3125pt x 924.45375pt>
@@ -2080,10 +2080,10 @@ File: img/multigrid_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_2-eps-converted-to.pdf used on input lin
-e 123.
+e 122.
 (pdftex.def)             Requested size: 173.1394pt x 138.66208pt.
 
-Overfull \hbox (30.87563pt too wide) in paragraph at lines 123--123
+Overfull \hbox (30.87563pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -2096,13 +2096,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2125,7 +2125,7 @@ Package epstopdf Info: Source file: <img/multigrid_3.eps>
 (epstopdf)                    size: 63000 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_3-eps-conver
 ted-to.pdf img/multigrid_3.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_3-eps-converted-to.pdf, id=189, 1154.3125pt x 924.45375pt>
@@ -2133,10 +2133,10 @@ File: img/multigrid_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_3-eps-converted-to.pdf used on input lin
-e 123.
+e 122.
 (pdftex.def)             Requested size: 173.1394pt x 138.66208pt.
 
-Overfull \hbox (30.87563pt too wide) in paragraph at lines 123--123
+Overfull \hbox (30.87563pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -2149,13 +2149,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2178,7 +2178,7 @@ Package epstopdf Info: Source file: <img/multigrid_4.eps>
 (epstopdf)                    size: 62957 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/multigrid_4-eps-conver
 ted-to.pdf img/multigrid_4.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/multigrid_4-eps-converted-to.pdf, id=213, 1154.3125pt x 924.45375pt>
@@ -2186,10 +2186,10 @@ File: img/multigrid_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/multigrid_4-eps-converted-to.pdf>
 Package pdftex.def Info: img/multigrid_4-eps-converted-to.pdf used on input lin
-e 123.
+e 122.
 (pdftex.def)             Requested size: 173.1394pt x 138.66208pt.
 
-Overfull \hbox (30.87563pt too wide) in paragraph at lines 123--123
+Overfull \hbox (30.87563pt too wide) in paragraph at lines 122--122
 [][]  
  []
 
@@ -2202,13 +2202,13 @@ verted-to.pdf>
 (epstopdf)                    size: 32316 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/classic_solver_option_
 2_text_2-eps-converted-to.pdf img/classic_solver_option_2_text_2.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
 File: img/classic_solver_option_2_text_2-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use img/classic_solver_option_2_text_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/classic_solver_option_2_text_2-eps-converted-to.pd
-f used on input line 123.
+f used on input line 122.
 (pdftex.def)             Requested size: 92.59193pt x 46.8229pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2244,7 +2244,7 @@ df>
 (epstopdf)                    size: 85589 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/lift_gmg_workflow_0-ep
 s-converted-to.pdf img/lift_gmg_workflow_0.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/lift_gmg_workflow_0-eps-converted-to.pdf, id=245, 1327.96124pt x 789.95125
@@ -2252,7 +2252,7 @@ pt>
 File: img/lift_gmg_workflow_0-eps-converted-to.pdf Graphic file (type pdf)
  <use img/lift_gmg_workflow_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/lift_gmg_workflow_0-eps-converted-to.pdf used on i
-nput line 149.
+nput line 148.
 (pdftex.def)             Requested size: 232.3967pt x 138.24353pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2276,7 +2276,7 @@ df>
 (epstopdf)                    size: 85596 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/lift_gmg_workflow_1-ep
 s-converted-to.pdf img/lift_gmg_workflow_1.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/lift_gmg_workflow_1-eps-converted-to.pdf, id=255, 1328.965pt x 789.95125pt
@@ -2284,7 +2284,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/lift_gmg_workflow_1-eps-converted-to.pdf Graphic file (type pdf)
  <use img/lift_gmg_workflow_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/lift_gmg_workflow_1-eps-converted-to.pdf used on i
-nput line 149.
+nput line 148.
 (pdftex.def)             Requested size: 232.57236pt x 138.24353pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2308,7 +2308,7 @@ df>
 (epstopdf)                    size: 90799 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/lift_gmg_workflow_2-ep
 s-converted-to.pdf img/lift_gmg_workflow_2.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/lift_gmg_workflow_2-eps-converted-to.pdf, id=265, 1328.965pt x 789.95125pt
@@ -2316,7 +2316,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/lift_gmg_workflow_2-eps-converted-to.pdf Graphic file (type pdf)
  <use img/lift_gmg_workflow_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/lift_gmg_workflow_2-eps-converted-to.pdf used on i
-nput line 149.
+nput line 148.
 (pdftex.def)             Requested size: 232.57236pt x 138.24353pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2340,7 +2340,7 @@ df>
 (epstopdf)                    size: 92452 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/lift_gmg_workflow_3-ep
 s-converted-to.pdf img/lift_gmg_workflow_3.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/lift_gmg_workflow_3-eps-converted-to.pdf, id=279, 1328.965pt x 789.95125pt
@@ -2348,7 +2348,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/lift_gmg_workflow_3-eps-converted-to.pdf Graphic file (type pdf)
  <use img/lift_gmg_workflow_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/lift_gmg_workflow_3-eps-converted-to.pdf used on i
-nput line 149.
+nput line 148.
 (pdftex.def)             Requested size: 232.57236pt x 138.24353pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2372,7 +2372,7 @@ df>
 (epstopdf)                    size: 93217 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/lift_gmg_workflow_4-ep
 s-converted-to.pdf img/lift_gmg_workflow_4.eps>
-(epstopdf)             \includegraphics on input line 149.
+(epstopdf)             \includegraphics on input line 148.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/lift_gmg_workflow_4-eps-converted-to.pdf, id=293, 1328.965pt x 789.95125pt
@@ -2380,7 +2380,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/lift_gmg_workflow_4-eps-converted-to.pdf Graphic file (type pdf)
  <use img/lift_gmg_workflow_4-eps-converted-to.pdf>
 Package pdftex.def Info: img/lift_gmg_workflow_4-eps-converted-to.pdf used on i
-nput line 149.
+nput line 148.
 (pdftex.def)             Requested size: 232.57236pt x 138.24353pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -2416,7 +2416,7 @@ pdf>
 (epstopdf)                    size: 10648 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/expressing_kernels_0-e
 ps-converted-to.pdf img/expressing_kernels_0.eps>
-(epstopdf)             \includegraphics on input line 167.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/expressing_kernels_0-eps-converted-to.pdf, id=314, 1024.82875pt x 276.0312
@@ -2424,10 +2424,10 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/expressing_kernels_0-eps-converted-to.pdf Graphic file (type pdf)
  <use img/expressing_kernels_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/expressing_kernels_0-eps-converted-to.pdf used on 
-input line 167.
+input line 166.
 (pdftex.def)             Requested size: 286.95009pt x 77.28821pt.
 
-Overfull \hbox (144.68631pt too wide) in paragraph at lines 167--167
+Overfull \hbox (144.68631pt too wide) in paragraph at lines 166--166
 [][]  
  []
 
@@ -2453,7 +2453,7 @@ pdf>
 (epstopdf)                    size: 15782 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/expressing_kernels_1-e
 ps-converted-to.pdf img/expressing_kernels_1.eps>
-(epstopdf)             \includegraphics on input line 167.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/expressing_kernels_1-eps-converted-to.pdf, id=324, 1024.82875pt x 276.0312
@@ -2461,10 +2461,10 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/expressing_kernels_1-eps-converted-to.pdf Graphic file (type pdf)
  <use img/expressing_kernels_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/expressing_kernels_1-eps-converted-to.pdf used on 
-input line 167.
+input line 166.
 (pdftex.def)             Requested size: 286.95009pt x 77.28821pt.
 
-Overfull \hbox (144.68631pt too wide) in paragraph at lines 167--167
+Overfull \hbox (144.68631pt too wide) in paragraph at lines 166--166
 [][]  
  []
 
@@ -2490,7 +2490,7 @@ pdf>
 (epstopdf)                    size: 37476 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/expressing_kernels_2-e
 ps-converted-to.pdf img/expressing_kernels_2.eps>
-(epstopdf)             \includegraphics on input line 167.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/expressing_kernels_2-eps-converted-to.pdf, id=334, 1024.82875pt x 276.0312
@@ -2498,10 +2498,10 @@ Package epstopdf Info: Output file is already uptodate.
 File: img/expressing_kernels_2-eps-converted-to.pdf Graphic file (type pdf)
  <use img/expressing_kernels_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/expressing_kernels_2-eps-converted-to.pdf used on 
-input line 167.
+input line 166.
 (pdftex.def)             Requested size: 286.95009pt x 77.28821pt.
 
-Overfull \hbox (144.68631pt too wide) in paragraph at lines 167--167
+Overfull \hbox (144.68631pt too wide) in paragraph at lines 166--166
 [][]  
  []
 
@@ -3023,7 +3023,7 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/indicator_1-eps-converted-to.pdf, id=479, 562.1pt x 366.36874pt>
@@ -3031,7 +3031,7 @@ File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 336.
+e 335.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction1D_general_scheme.eps>
 (epstopdf)                    date: 2018-06-19 19:14:26
@@ -3042,7 +3042,7 @@ rted-to.pdf>
 (epstopdf)                    size: 12209 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction1D_general_
 scheme-eps-converted-to.pdf img/restriction1D_general_scheme.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction1D_general_scheme-eps-converted-to.pdf, id=480, 610.28pt x 134.
@@ -3051,7 +3051,7 @@ File: img/restriction1D_general_scheme-eps-converted-to.pdf Graphic file (type
 pdf)
  <use img/restriction1D_general_scheme-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction1D_general_scheme-eps-converted-to.pdf 
-used on input line 336.
+used on input line 335.
 (pdftex.def)             Requested size: 305.13925pt x 67.25107pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3075,12 +3075,12 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
  <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 336.
+e 335.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction1D_lift_scheme_smaller_bold
 _0.eps>
@@ -3093,7 +3093,7 @@ _0-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/restriction1D_lift_sch
 eme_smaller_bold_0-eps-converted-to.pdf img/restriction1D_lift_scheme_smaller_b
 old_0.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction1D_lift_scheme_smaller_bold_0-eps-converted-to.pdf, id=500, 608
@@ -3103,7 +3103,7 @@ File: img/restriction1D_lift_scheme_smaller_bold_0-eps-converted-to.pdf Graphic
 
 <use img/restriction1D_lift_scheme_smaller_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction1D_lift_scheme_smaller_bold_0-eps-conve
-rted-to.pdf used on input line 336.
+rted-to.pdf used on input line 335.
 (pdftex.def)             Requested size: 231.14595pt x 112.1401pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3126,13 +3126,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 336.
+e 335.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction1D_lift_scheme_smaller_bold
 _1.eps>
@@ -3145,7 +3145,7 @@ _1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/restriction1D_lift_sch
 eme_smaller_bold_1-eps-converted-to.pdf img/restriction1D_lift_scheme_smaller_b
 old_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction1D_lift_scheme_smaller_bold_1-eps-converted-to.pdf, id=513, 608
@@ -3155,7 +3155,7 @@ File: img/restriction1D_lift_scheme_smaller_bold_1-eps-converted-to.pdf Graphic
 
 <use img/restriction1D_lift_scheme_smaller_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction1D_lift_scheme_smaller_bold_1-eps-conve
-rted-to.pdf used on input line 336.
+rted-to.pdf used on input line 335.
 (pdftex.def)             Requested size: 231.14595pt x 112.1401pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3178,13 +3178,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 336.
+e 335.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction1D_lift_scheme_smaller_bold
 _2.eps>
@@ -3197,7 +3197,7 @@ _2-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/restriction1D_lift_sch
 eme_smaller_bold_2-eps-converted-to.pdf img/restriction1D_lift_scheme_smaller_b
 old_2.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction1D_lift_scheme_smaller_bold_2-eps-converted-to.pdf, id=526, 608
@@ -3207,7 +3207,7 @@ File: img/restriction1D_lift_scheme_smaller_bold_2-eps-converted-to.pdf Graphic
 
 <use img/restriction1D_lift_scheme_smaller_bold_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction1D_lift_scheme_smaller_bold_2-eps-conve
-rted-to.pdf used on input line 336.
+rted-to.pdf used on input line 335.
 (pdftex.def)             Requested size: 231.14595pt x 112.1401pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3230,13 +3230,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 336.
+e 335.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction1D_lift_scheme_smaller_bold
 _3.eps>
@@ -3249,7 +3249,7 @@ _3-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/restriction1D_lift_sch
 eme_smaller_bold_3-eps-converted-to.pdf img/restriction1D_lift_scheme_smaller_b
 old_3.eps>
-(epstopdf)             \includegraphics on input line 336.
+(epstopdf)             \includegraphics on input line 335.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction1D_lift_scheme_smaller_bold_3-eps-converted-to.pdf, id=540, 608
@@ -3259,7 +3259,7 @@ File: img/restriction1D_lift_scheme_smaller_bold_3-eps-converted-to.pdf Graphic
 
 <use img/restriction1D_lift_scheme_smaller_bold_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction1D_lift_scheme_smaller_bold_3-eps-conve
-rted-to.pdf used on input line 336.
+rted-to.pdf used on input line 335.
 (pdftex.def)             Requested size: 231.14595pt x 112.1401pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3282,13 +3282,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 367.
+e 366.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction2D_lift_scheme_bold_0.eps>
 (epstopdf)                    date: 2018-06-21 10:35:59
@@ -3299,7 +3299,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 5904 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction2D_lift_sch
 eme_bold_0-eps-converted-to.pdf img/restriction2D_lift_scheme_bold_0.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction2D_lift_scheme_bold_0-eps-converted-to.pdf, id=554, 478.78876pt
@@ -3308,7 +3308,7 @@ File: img/restriction2D_lift_scheme_bold_0-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/restriction2D_lift_scheme_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction2D_lift_scheme_bold_0-eps-converted-to.
-pdf used on input line 367.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 191.5121pt x 174.24791pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3331,13 +3331,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 367.
+e 366.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction2D_lift_scheme_bold_1.eps>
 (epstopdf)                    date: 2018-06-21 10:36:09
@@ -3348,7 +3348,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 12283 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction2D_lift_sch
 eme_bold_1-eps-converted-to.pdf img/restriction2D_lift_scheme_bold_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction2D_lift_scheme_bold_1-eps-converted-to.pdf, id=568, 478.78876pt
@@ -3357,7 +3357,7 @@ File: img/restriction2D_lift_scheme_bold_1-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/restriction2D_lift_scheme_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction2D_lift_scheme_bold_1-eps-converted-to.
-pdf used on input line 367.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 191.5121pt x 174.24791pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3380,13 +3380,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 367.
+e 366.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction2D_lift_scheme_bold_2.eps>
 (epstopdf)                    date: 2018-06-21 10:36:15
@@ -3397,7 +3397,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 12353 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction2D_lift_sch
 eme_bold_2-eps-converted-to.pdf img/restriction2D_lift_scheme_bold_2.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction2D_lift_scheme_bold_2-eps-converted-to.pdf, id=585, 478.78876pt
@@ -3406,7 +3406,7 @@ File: img/restriction2D_lift_scheme_bold_2-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/restriction2D_lift_scheme_bold_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction2D_lift_scheme_bold_2-eps-converted-to.
-pdf used on input line 367.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 191.5121pt x 174.24791pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3429,13 +3429,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 367.
+e 366.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction2D_lift_scheme_bold_3.eps>
 (epstopdf)                    date: 2018-06-21 10:36:21
@@ -3446,7 +3446,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 13673 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction2D_lift_sch
 eme_bold_3-eps-converted-to.pdf img/restriction2D_lift_scheme_bold_3.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction2D_lift_scheme_bold_3-eps-converted-to.pdf, id=602, 478.78876pt
@@ -3455,7 +3455,7 @@ File: img/restriction2D_lift_scheme_bold_3-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/restriction2D_lift_scheme_bold_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction2D_lift_scheme_bold_3-eps-converted-to.
-pdf used on input line 367.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 191.5121pt x 174.24791pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3478,13 +3478,13 @@ Package epstopdf Info: Source file: <img/indicator_1.eps>
 (epstopdf)                    size: 7963 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_1-eps-conver
 ted-to.pdf img/indicator_1.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_1-eps-converted-to.pdf used on input lin
-e 367.
+e 366.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/restriction2D_lift_scheme_bold_4.eps>
 (epstopdf)                    date: 2018-06-21 11:27:43
@@ -3495,7 +3495,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 17579 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/restriction2D_lift_sch
 eme_bold_4-eps-converted-to.pdf img/restriction2D_lift_scheme_bold_4.eps>
-(epstopdf)             \includegraphics on input line 367.
+(epstopdf)             \includegraphics on input line 366.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/restriction2D_lift_scheme_bold_4-eps-converted-to.pdf, id=622, 478.78876pt
@@ -3504,7 +3504,7 @@ File: img/restriction2D_lift_scheme_bold_4-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/restriction2D_lift_scheme_bold_4-eps-converted-to.pdf>
 Package pdftex.def Info: img/restriction2D_lift_scheme_bold_4-eps-converted-to.
-pdf used on input line 367.
+pdf used on input line 366.
 (pdftex.def)             Requested size: 191.5121pt x 174.24791pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3527,7 +3527,7 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/indicator_2-eps-converted-to.pdf, id=642, 562.1pt x 366.36874pt>
@@ -3535,7 +3535,7 @@ File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 389.
+e 388.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolongation1D_general_scheme_more.eps
 >
@@ -3547,7 +3547,7 @@ Package epstopdf Info: Source file: <img/prolongation1D_general_scheme_more.eps
 (epstopdf)                    size: 24185 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolongation1D_general
 _scheme_more-eps-converted-to.pdf img/prolongation1D_general_scheme_more.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolongation1D_general_scheme_more-eps-converted-to.pdf, id=643, 533.995pt
@@ -3557,10 +3557,10 @@ File: img/prolongation1D_general_scheme_more-eps-converted-to.pdf Graphic file
 
 <use img/prolongation1D_general_scheme_more-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolongation1D_general_scheme_more-eps-converted-t
-o.pdf used on input line 389.
+o.pdf used on input line 388.
 (pdftex.def)             Requested size: 309.71732pt x 78.01149pt.
 
-Overfull \hbox (3.85025pt too wide) in paragraph at lines 389--389
+Overfull \hbox (3.85025pt too wide) in paragraph at lines 388--388
  [] 
  []
 
@@ -3586,12 +3586,12 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
  <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 389.
+e 388.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_MapPad_bold_0.eps>
 (epstopdf)                    date: 2018-06-21 15:00:07
@@ -3602,7 +3602,7 @@ ted-to.pdf>
 (epstopdf)                    size: 5841 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_MapPad_b
 old_0-eps-converted-to.pdf img/prolonation1D_MapPad_bold_0.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_MapPad_bold_0-eps-converted-to.pdf, id=663, 478.78876pt x 33
@@ -3611,7 +3611,7 @@ File: img/prolonation1D_MapPad_bold_0-eps-converted-to.pdf Graphic file (type p
 df)
  <use img/prolonation1D_MapPad_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_MapPad_bold_0-eps-converted-to.pdf u
-sed on input line 389.
+sed on input line 388.
 (pdftex.def)             Requested size: 191.5121pt x 133.29562pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3634,13 +3634,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 389.
+e 388.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_MapPad_bold_1.eps>
 (epstopdf)                    date: 2018-06-21 15:00:14
@@ -3651,7 +3651,7 @@ ted-to.pdf>
 (epstopdf)                    size: 9071 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_MapPad_b
 old_1-eps-converted-to.pdf img/prolonation1D_MapPad_bold_1.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_MapPad_bold_1-eps-converted-to.pdf, id=676, 478.78876pt x 33
@@ -3660,7 +3660,7 @@ File: img/prolonation1D_MapPad_bold_1-eps-converted-to.pdf Graphic file (type p
 df)
  <use img/prolonation1D_MapPad_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_MapPad_bold_1-eps-converted-to.pdf u
-sed on input line 389.
+sed on input line 388.
 (pdftex.def)             Requested size: 191.5121pt x 133.29562pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3683,13 +3683,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 389.
+e 388.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_MapPad_bold_2.eps>
 (epstopdf)                    date: 2018-06-21 15:00:21
@@ -3700,7 +3700,7 @@ ted-to.pdf>
 (epstopdf)                    size: 10344 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_MapPad_b
 old_2-eps-converted-to.pdf img/prolonation1D_MapPad_bold_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_MapPad_bold_2-eps-converted-to.pdf, id=690, 478.78876pt x 33
@@ -3709,7 +3709,7 @@ File: img/prolonation1D_MapPad_bold_2-eps-converted-to.pdf Graphic file (type p
 df)
  <use img/prolonation1D_MapPad_bold_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_MapPad_bold_2-eps-converted-to.pdf u
-sed on input line 389.
+sed on input line 388.
 (pdftex.def)             Requested size: 191.5121pt x 133.29562pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3732,13 +3732,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 389.
+e 388.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_MapPad_bold_3.eps>
 (epstopdf)                    date: 2018-06-21 15:00:27
@@ -3749,7 +3749,7 @@ ted-to.pdf>
 (epstopdf)                    size: 11888 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_MapPad_b
 old_3-eps-converted-to.pdf img/prolonation1D_MapPad_bold_3.eps>
-(epstopdf)             \includegraphics on input line 389.
+(epstopdf)             \includegraphics on input line 388.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_MapPad_bold_3-eps-converted-to.pdf, id=703, 491.8375pt x 337
@@ -3758,7 +3758,7 @@ File: img/prolonation1D_MapPad_bold_3-eps-converted-to.pdf Graphic file (type p
 df)
  <use img/prolonation1D_MapPad_bold_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_MapPad_bold_3-eps-converted-to.pdf u
-sed on input line 389.
+sed on input line 388.
 (pdftex.def)             Requested size: 196.7315pt x 134.9016pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3781,13 +3781,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_0.eps>
@@ -3800,7 +3800,7 @@ d_0-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_0-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_0.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_0-eps-converted-to.pdf, id=716, 46
@@ -3810,7 +3810,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_0-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3833,13 +3833,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_1.eps>
@@ -3852,7 +3852,7 @@ d_1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_1-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_1.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_1-eps-converted-to.pdf, id=729, 46
@@ -3862,7 +3862,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_1-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3885,13 +3885,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_2.eps>
@@ -3904,7 +3904,7 @@ d_2-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_2-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_2-eps-converted-to.pdf, id=743, 46
@@ -3914,7 +3914,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_2-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3937,13 +3937,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_3.eps>
@@ -3956,7 +3956,7 @@ d_3-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_3-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_3.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_3-eps-converted-to.pdf, id=756, 46
@@ -3966,7 +3966,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_3-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -3989,13 +3989,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_4.eps>
@@ -4008,7 +4008,7 @@ d_4-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_4-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_4.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_4-eps-converted-to.pdf, id=769, 46
@@ -4018,7 +4018,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_4-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_4-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4041,13 +4041,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_5.eps>
@@ -4060,7 +4060,7 @@ d_5-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_5-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_5.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_5-eps-converted-to.pdf, id=782, 46
@@ -4070,7 +4070,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_5-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_5-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4093,26 +4093,26 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 459.
+e 458.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_zip_weights_extended_bol
 d_6.eps>
-(epstopdf)                    date: 2018-06-20 18:31:06
-(epstopdf)                    size: 45620 bytes
+(epstopdf)                    date: 2018-06-22 14:22:51
+(epstopdf)                    size: 45617 bytes
 (epstopdf)             Output file: <img/prolonation1D_zip_weights_extended_bol
 d_6-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-06-20 18:31:57
-(epstopdf)                    size: 17393 bytes
+(epstopdf)                    date: 2018-06-22 14:23:06
+(epstopdf)                    size: 17395 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_zip_weig
 hts_extended_bold_6-eps-converted-to.pdf img/prolonation1D_zip_weights_extended
 _bold_6.eps>
-(epstopdf)             \includegraphics on input line 459.
+(epstopdf)             \includegraphics on input line 458.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_zip_weights_extended_bold_6-eps-converted-to.pdf, id=795, 46
@@ -4122,7 +4122,7 @@ c file (type pdf)
 
 <use img/prolonation1D_zip_weights_extended_bold_6-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_zip_weights_extended_bold_6-eps-conv
-erted-to.pdf used on input line 459.
+erted-to.pdf used on input line 458.
 (pdftex.def)             Requested size: 205.36787pt x 180.6354pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4145,13 +4145,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 500.
+e 499.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolongation1D_general_scheme_more.eps
 >
@@ -4163,17 +4163,17 @@ Package epstopdf Info: Source file: <img/prolongation1D_general_scheme_more.eps
 (epstopdf)                    size: 24185 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolongation1D_general
 _scheme_more-eps-converted-to.pdf img/prolongation1D_general_scheme_more.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/prolongation1D_general_scheme_more-eps-converted-to.pdf Graphic file 
 (type pdf)
 
 <use img/prolongation1D_general_scheme_more-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolongation1D_general_scheme_more-eps-converted-t
-o.pdf used on input line 500.
+o.pdf used on input line 499.
 (pdftex.def)             Requested size: 309.71732pt x 78.01149pt.
 
-Overfull \hbox (3.85025pt too wide) in paragraph at lines 500--500
+Overfull \hbox (3.85025pt too wide) in paragraph at lines 499--499
  [] 
  []
 
@@ -4198,12 +4198,12 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
  <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 500.
+e 499.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_Drop_full_structure_bold
 _0.eps>
@@ -4216,7 +4216,7 @@ _0-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_Drop_ful
 l_structure_bold_0-eps-converted-to.pdf img/prolonation1D_Drop_full_structure_b
 old_0.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_Drop_full_structure_bold_0-eps-converted-to.pdf, id=815, 733
@@ -4226,10 +4226,10 @@ File: img/prolonation1D_Drop_full_structure_bold_0-eps-converted-to.pdf Graphic
 
 <use img/prolonation1D_Drop_full_structure_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_Drop_full_structure_bold_0-eps-conve
-rted-to.pdf used on input line 500.
+rted-to.pdf used on input line 499.
 (pdftex.def)             Requested size: 330.18051pt x 60.52554pt.
 
-Overfull \hbox (45.65295pt too wide) in paragraph at lines 500--500
+Overfull \hbox (45.65295pt too wide) in paragraph at lines 499--499
 [][]  
  []
 
@@ -4254,13 +4254,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 500.
+e 499.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_Drop_full_structure_bold
 _1.eps>
@@ -4273,7 +4273,7 @@ _1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_Drop_ful
 l_structure_bold_1-eps-converted-to.pdf img/prolonation1D_Drop_full_structure_b
 old_1.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_Drop_full_structure_bold_1-eps-converted-to.pdf, id=828, 733
@@ -4283,10 +4283,10 @@ File: img/prolonation1D_Drop_full_structure_bold_1-eps-converted-to.pdf Graphic
 
 <use img/prolonation1D_Drop_full_structure_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_Drop_full_structure_bold_1-eps-conve
-rted-to.pdf used on input line 500.
+rted-to.pdf used on input line 499.
 (pdftex.def)             Requested size: 330.18051pt x 60.52554pt.
 
-Overfull \hbox (45.65295pt too wide) in paragraph at lines 500--500
+Overfull \hbox (45.65295pt too wide) in paragraph at lines 499--499
 [][]  
  []
 
@@ -4311,13 +4311,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 500.
+e 499.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_Drop_full_structure_bold
 _1.eps>
@@ -4330,17 +4330,17 @@ _1-eps-converted-to.pdf>
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_Drop_ful
 l_structure_bold_1-eps-converted-to.pdf img/prolonation1D_Drop_full_structure_b
 old_1.eps>
-(epstopdf)             \includegraphics on input line 500.
+(epstopdf)             \includegraphics on input line 499.
 Package epstopdf Info: Output file is already uptodate.
 File: img/prolonation1D_Drop_full_structure_bold_1-eps-converted-to.pdf Graphic
  file (type pdf)
 
 <use img/prolonation1D_Drop_full_structure_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_Drop_full_structure_bold_1-eps-conve
-rted-to.pdf used on input line 500.
+rted-to.pdf used on input line 499.
 (pdftex.def)             Requested size: 330.18051pt x 60.52554pt.
 
-Overfull \hbox (45.65295pt too wide) in paragraph at lines 500--500
+Overfull \hbox (45.65295pt too wide) in paragraph at lines 499--499
 [][]  
  []
 
@@ -4365,12 +4365,12 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
  <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 536.
+e 535.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_computation_bold_0.eps>
 (epstopdf)                    date: 2018-06-19 22:01:53
@@ -4381,7 +4381,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 8796 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_computat
 ion_bold_0-eps-converted-to.pdf img/prolonation1D_computation_bold_0.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_computation_bold_0-eps-converted-to.pdf, id=848, 593.21625pt
@@ -4390,7 +4390,7 @@ File: img/prolonation1D_computation_bold_0-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/prolonation1D_computation_bold_0-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_computation_bold_0-eps-converted-to.
-pdf used on input line 536.
+pdf used on input line 535.
 (pdftex.def)             Requested size: 266.94484pt x 112.92082pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4413,13 +4413,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 536.
+e 535.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_computation_bold_1.eps>
 (epstopdf)                    date: 2018-06-19 22:02:00
@@ -4430,7 +4430,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 9723 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_computat
 ion_bold_1-eps-converted-to.pdf img/prolonation1D_computation_bold_1.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_computation_bold_1-eps-converted-to.pdf, id=861, 593.21625pt
@@ -4439,7 +4439,7 @@ File: img/prolonation1D_computation_bold_1-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/prolonation1D_computation_bold_1-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_computation_bold_1-eps-converted-to.
-pdf used on input line 536.
+pdf used on input line 535.
 (pdftex.def)             Requested size: 266.94484pt x 112.92082pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4462,13 +4462,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 536.
+e 535.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_computation_bold_2.eps>
 (epstopdf)                    date: 2018-06-19 22:02:07
@@ -4479,7 +4479,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 14349 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_computat
 ion_bold_2-eps-converted-to.pdf img/prolonation1D_computation_bold_2.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_computation_bold_2-eps-converted-to.pdf, id=874, 593.21625pt
@@ -4488,7 +4488,7 @@ File: img/prolonation1D_computation_bold_2-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/prolonation1D_computation_bold_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_computation_bold_2-eps-converted-to.
-pdf used on input line 536.
+pdf used on input line 535.
 (pdftex.def)             Requested size: 266.94484pt x 112.92082pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4511,13 +4511,13 @@ Package epstopdf Info: Source file: <img/indicator_2.eps>
 (epstopdf)                    size: 7971 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/indicator_2-eps-conver
 ted-to.pdf img/indicator_2.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 File: img/indicator_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/indicator_2-eps-converted-to.pdf>
 Package pdftex.def Info: img/indicator_2-eps-converted-to.pdf used on input lin
-e 536.
+e 535.
 (pdftex.def)             Requested size: 56.21329pt x 36.639pt.
 Package epstopdf Info: Source file: <img/prolonation1D_computation_bold_3.eps>
 (epstopdf)                    date: 2018-06-19 22:48:33
@@ -4528,7 +4528,7 @@ onverted-to.pdf>
 (epstopdf)                    size: 15767 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/prolonation1D_computat
 ion_bold_3-eps-converted-to.pdf img/prolonation1D_computation_bold_3.eps>
-(epstopdf)             \includegraphics on input line 536.
+(epstopdf)             \includegraphics on input line 535.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/prolonation1D_computation_bold_3-eps-converted-to.pdf, id=888, 593.21625pt
@@ -4537,7 +4537,7 @@ File: img/prolonation1D_computation_bold_3-eps-converted-to.pdf Graphic file (t
 ype pdf)
  <use img/prolonation1D_computation_bold_3-eps-converted-to.pdf>
 Package pdftex.def Info: img/prolonation1D_computation_bold_3-eps-converted-to.
-pdf used on input line 536.
+pdf used on input line 535.
 (pdftex.def)             Requested size: 266.94484pt x 112.92082pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4598,7 +4598,7 @@ Package epstopdf Info: Source file: <img/plots/runtime_4_edited_transparent.eps
 (epstopdf)                    size: 167551 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/runtime_4_edited
 _transparent-eps-converted-to.pdf img/plots/runtime_4_edited_transparent.eps>
-(epstopdf)             \includegraphics on input line 599.
+(epstopdf)             \includegraphics on input line 598.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/plots/runtime_4_edited_transparent-eps-converted-to.pdf, id=919, 676.5275p
@@ -4608,7 +4608,7 @@ File: img/plots/runtime_4_edited_transparent-eps-converted-to.pdf Graphic file
 
 <use img/plots/runtime_4_edited_transparent-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/runtime_4_edited_transparent-eps-converted-t
-o.pdf used on input line 599.
+o.pdf used on input line 598.
 (pdftex.def)             Requested size: 253.69717pt x 188.95547pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4632,7 +4632,7 @@ o.pdf>
 (epstopdf)                    size: 12495 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/runtime_4_edited
 -eps-converted-to.pdf img/plots/runtime_4_edited.eps>
-(epstopdf)             \includegraphics on input line 599.
+(epstopdf)             \includegraphics on input line 598.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/plots/runtime_4_edited-eps-converted-to.pdf, id=934, 676.5275pt x 503.8825
@@ -4640,7 +4640,7 @@ pt>
 File: img/plots/runtime_4_edited-eps-converted-to.pdf Graphic file (type pdf)
  <use img/plots/runtime_4_edited-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/runtime_4_edited-eps-converted-to.pdf used o
-n input line 599.
+n input line 598.
 (pdftex.def)             Requested size: 253.69717pt x 188.95547pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4665,7 +4665,7 @@ Package epstopdf Info: Source file: <img/plots/speedup_4_edited_transparent.eps
 (epstopdf)                    size: 116330 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/speedup_4_edited
 _transparent-eps-converted-to.pdf img/plots/speedup_4_edited_transparent.eps>
-(epstopdf)             \includegraphics on input line 629.
+(epstopdf)             \includegraphics on input line 628.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/plots/speedup_4_edited_transparent-eps-converted-to.pdf, id=954, 545.03625
@@ -4675,7 +4675,7 @@ File: img/plots/speedup_4_edited_transparent-eps-converted-to.pdf Graphic file
 
 <use img/plots/speedup_4_edited_transparent-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/speedup_4_edited_transparent-eps-converted-t
-o.pdf used on input line 629.
+o.pdf used on input line 628.
 (pdftex.def)             Requested size: 190.76555pt x 177.06415pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4699,14 +4699,14 @@ o.pdf>
 (epstopdf)                    size: 10358 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/speedup_4_edited
 -eps-converted-to.pdf img/plots/speedup_4_edited.eps>
-(epstopdf)             \includegraphics on input line 629.
+(epstopdf)             \includegraphics on input line 628.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/plots/speedup_4_edited-eps-converted-to.pdf, id=967, 542.025pt x 505.89pt>
 File: img/plots/speedup_4_edited-eps-converted-to.pdf Graphic file (type pdf)
 <use img/plots/speedup_4_edited-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/speedup_4_edited-eps-converted-to.pdf used o
-n input line 629.
+n input line 628.
 (pdftex.def)             Requested size: 189.71158pt x 177.06415pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4742,7 +4742,7 @@ Package epstopdf Info: Source file: <img/gmg_program_ppcg.eps>
 (epstopdf)                    size: 34062 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_ppcg-eps-c
 onverted-to.pdf img/gmg_program_ppcg.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/gmg_program_ppcg-eps-converted-to.pdf, id=990, 403.5075pt x 826.08624pt>
@@ -4750,7 +4750,7 @@ File: img/gmg_program_ppcg-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gmg_program_ppcg-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_ppcg-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 70.61487pt x 144.56725pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4774,13 +4774,13 @@ Package epstopdf Info: Source file: <img/gmg_program_ppcg.eps>
 (epstopdf)                    size: 34062 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_ppcg-eps-c
 onverted-to.pdf img/gmg_program_ppcg.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: img/gmg_program_ppcg-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gmg_program_ppcg-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_ppcg-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 70.61487pt x 144.56725pt.
 Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    date: 2018-06-20 20:49:26
@@ -4791,14 +4791,14 @@ Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    size: 34628 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_lift-eps-c
 onverted-to.pdf img/gmg_program_lift.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/gmg_program_lift-eps-converted-to.pdf, id=1008, 669.50125pt x 826.08624pt>
 File: img/gmg_program_lift-eps-converted-to.pdf Graphic file (type pdf)
 <use img/gmg_program_lift-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_lift-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 117.16447pt x 144.56725pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4822,13 +4822,13 @@ Package epstopdf Info: Source file: <img/gmg_program_ppcg.eps>
 (epstopdf)                    size: 34062 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_ppcg-eps-c
 onverted-to.pdf img/gmg_program_ppcg.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: img/gmg_program_ppcg-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gmg_program_ppcg-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_ppcg-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 70.61487pt x 144.56725pt.
 Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    date: 2018-06-20 20:49:26
@@ -4839,13 +4839,13 @@ Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    size: 34628 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_lift-eps-c
 onverted-to.pdf img/gmg_program_lift.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: img/gmg_program_lift-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gmg_program_lift-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_lift-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 117.16447pt x 144.56725pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4869,12 +4869,12 @@ Package epstopdf Info: Source file: <img/gmg_program_ppcg.eps>
 (epstopdf)                    size: 34062 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_ppcg-eps-c
 onverted-to.pdf img/gmg_program_ppcg.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: img/gmg_program_ppcg-eps-converted-to.pdf Graphic file (type pdf)
  <use img/gmg_program_ppcg-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_ppcg-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 70.61487pt x 144.56725pt.
 Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    date: 2018-06-20 20:49:26
@@ -4885,13 +4885,13 @@ Package epstopdf Info: Source file: <img/gmg_program_lift.eps>
 (epstopdf)                    size: 34628 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/gmg_program_lift-eps-c
 onverted-to.pdf img/gmg_program_lift.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: img/gmg_program_lift-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/gmg_program_lift-eps-converted-to.pdf>
 Package pdftex.def Info: img/gmg_program_lift-eps-converted-to.pdf used on inpu
-t line 665.
+t line 664.
 (pdftex.def)             Requested size: 117.16447pt x 144.56725pt.
 Package epstopdf Info: Source file: <img/program_measure.eps>
 (epstopdf)                    date: 2018-06-20 21:26:34
@@ -4901,7 +4901,7 @@ Package epstopdf Info: Source file: <img/program_measure.eps>
 (epstopdf)                    size: 2903 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/program_measure-eps-co
 nverted-to.pdf img/program_measure.eps>
-(epstopdf)             \includegraphics on input line 665.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/program_measure-eps-converted-to.pdf, id=1033, 110.4125pt x 641.39626pt>
@@ -4909,7 +4909,7 @@ File: img/program_measure-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/program_measure-eps-converted-to.pdf>
 Package pdftex.def Info: img/program_measure-eps-converted-to.pdf used on input
- line 665.
+ line 664.
 (pdftex.def)             Requested size: 19.32246pt x 112.24602pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4945,7 +4945,7 @@ pdf>
 (epstopdf)                    size: 6391 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/v_cycle_edited-e
 ps-converted-to.pdf img/plots/v_cycle_edited.eps>
-(epstopdf)             \includegraphics on input line 688.
+(epstopdf)             \includegraphics on input line 687.
 Package epstopdf Info: Output file is already uptodate.
 
 <img/plots/v_cycle_edited-eps-converted-to.pdf, id=1048, 505.89pt x 505.89pt>
@@ -4953,7 +4953,7 @@ File: img/plots/v_cycle_edited-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/plots/v_cycle_edited-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/v_cycle_edited-eps-converted-to.pdf used on 
-input line 688.
+input line 687.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -4977,13 +4977,13 @@ pdf>
 (epstopdf)                    size: 6391 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/v_cycle_edited-e
 ps-converted-to.pdf img/plots/v_cycle_edited.eps>
-(epstopdf)             \includegraphics on input line 688.
+(epstopdf)             \includegraphics on input line 687.
 Package epstopdf Info: Output file is already uptodate.
 File: img/plots/v_cycle_edited-eps-converted-to.pdf Graphic file (type pdf)
 
 <use img/plots/v_cycle_edited-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/v_cycle_edited-eps-converted-to.pdf used on 
-input line 688.
+input line 687.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -5007,12 +5007,12 @@ pdf>
 (epstopdf)                    size: 6391 bytes
 (epstopdf)             Command: <repstopdf --outfile=img/plots/v_cycle_edited-e
 ps-converted-to.pdf img/plots/v_cycle_edited.eps>
-(epstopdf)             \includegraphics on input line 688.
+(epstopdf)             \includegraphics on input line 687.
 Package epstopdf Info: Output file is already uptodate.
 File: img/plots/v_cycle_edited-eps-converted-to.pdf Graphic file (type pdf)
  <use img/plots/v_cycle_edited-eps-converted-to.pdf>
 Package pdftex.def Info: img/plots/v_cycle_edited-eps-converted-to.pdf used on 
-input line 688.
+input line 687.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
 Overfull \hbox (0.83995pt too wide) has occurred while \output is active
@@ -5054,10 +5054,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/errorSmoothing_0.png Graphic file (type png)
 
 <use img/errorSmoothing_0.png>
-Package pdftex.def Info: img/errorSmoothing_0.png used on input line 710.
+Package pdftex.def Info: img/errorSmoothing_0.png used on input line 709.
 (pdftex.def)             Requested size: 255.04659pt x 185.48842pt.
 
-Overfull \vbox (11.39233pt too high) detected at line 710
+Overfull \vbox (11.39233pt too high) detected at line 709
  []
 
 
@@ -5077,10 +5077,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/errorSmoothing_1.png Graphic file (type png)
 
 <use img/errorSmoothing_1.png>
-Package pdftex.def Info: img/errorSmoothing_1.png used on input line 710.
+Package pdftex.def Info: img/errorSmoothing_1.png used on input line 709.
 (pdftex.def)             Requested size: 255.04659pt x 185.48842pt.
 
-Overfull \vbox (11.39233pt too high) detected at line 710
+Overfull \vbox (11.39233pt too high) detected at line 709
  []
 
 
@@ -5100,10 +5100,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/errorSmoothing.png Graphic file (type png)
 
 <use img/errorSmoothing.png>
-Package pdftex.def Info: img/errorSmoothing.png used on input line 710.
+Package pdftex.def Info: img/errorSmoothing.png used on input line 709.
 (pdftex.def)             Requested size: 255.04659pt x 185.48842pt.
 
-Overfull \vbox (11.39233pt too high) detected at line 710
+Overfull \vbox (11.39233pt too high) detected at line 709
  []
 
 
@@ -5123,10 +5123,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/plots/smooth.pdf Graphic file (type pdf)
 
 <use img/plots/smooth.pdf>
-Package pdftex.def Info: img/plots/smooth.pdf used on input line 715.
+Package pdftex.def Info: img/plots/smooth.pdf used on input line 714.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
-Overfull \vbox (0.46902pt too high) detected at line 715
+Overfull \vbox (0.46902pt too high) detected at line 714
  []
 
 
@@ -5146,10 +5146,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/plots/residual.pdf Graphic file (type pdf)
 
 <use img/plots/residual.pdf>
-Package pdftex.def Info: img/plots/residual.pdf used on input line 720.
+Package pdftex.def Info: img/plots/residual.pdf used on input line 719.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
-Overfull \vbox (0.46902pt too high) detected at line 720
+Overfull \vbox (0.46902pt too high) detected at line 719
  []
 
 
@@ -5169,10 +5169,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/plots/restrict.pdf Graphic file (type pdf)
 
 <use img/plots/restrict.pdf>
-Package pdftex.def Info: img/plots/restrict.pdf used on input line 725.
+Package pdftex.def Info: img/plots/restrict.pdf used on input line 724.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
-Overfull \vbox (0.46902pt too high) detected at line 725
+Overfull \vbox (0.46902pt too high) detected at line 724
  []
 
 
@@ -5192,10 +5192,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/plots/interpolate.pdf Graphic file (type pdf)
 
 <use img/plots/interpolate.pdf>
-Package pdftex.def Info: img/plots/interpolate.pdf used on input line 730.
+Package pdftex.def Info: img/plots/interpolate.pdf used on input line 729.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
-Overfull \vbox (3.171pt too high) detected at line 730
+Overfull \vbox (3.171pt too high) detected at line 729
  []
 
 
@@ -5215,10 +5215,10 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 File: img/plots/global.pdf Graphic file (type pdf)
 
 <use img/plots/global.pdf>
-Package pdftex.def Info: img/plots/global.pdf used on input line 735.
+Package pdftex.def Info: img/plots/global.pdf used on input line 734.
 (pdftex.def)             Requested size: 177.06415pt x 177.06415pt.
 
-Overfull \vbox (3.171pt too high) detected at line 735
+Overfull \vbox (3.171pt too high) detected at line 734
  []
 
 
@@ -5243,11 +5243,11 @@ Overfull \hbox (0.83995pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 739.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 739.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 739.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 739.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 738.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 738.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -5258,7 +5258,7 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 739.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 738.
  ) 
 Here is how much of TeX's memory you used:
  26255 strings out of 493029
@@ -5276,7 +5276,7 @@ pfb></usr/share/texmf/fonts/type1/fontfont/meta/fMtr8a.pfb></usr/share/texmf/fo
 nts/type1/fontfont/meta/fMtri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
 r/sfit0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on presentation.pdf (88 pages, 2082506 bytes).
+Output written on presentation.pdf (88 pages, 2082515 bytes).
 PDF statistics:
  1246 PDF objects out of 1440 (max. 8388607)
  826 compressed objects within 9 object streams
